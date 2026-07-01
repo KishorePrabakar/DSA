@@ -14,4 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KishorePrabakar/DSA/tree/master/0066-plus-one) |
+| [0229-majority-element-ii](https://github.com/KishorePrabakar/DSA/tree/master/0229-majority-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KishorePrabakar/DSA/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KishorePrabakar/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KishorePrabakar/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
