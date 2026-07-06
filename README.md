@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KishorePrabakar/DSA/tree/master/0066-plus-one) |
 | [0229-majority-element-ii](https://github.com/KishorePrabakar/DSA/tree/master/0229-majority-element-ii) |
+| [1288-remove-covered-intervals](https://github.com/KishorePrabakar/DSA/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KishorePrabakar/DSA/tree/master/0229-majority-element-ii) |
+| [1288-remove-covered-intervals](https://github.com/KishorePrabakar/DSA/tree/master/1288-remove-covered-intervals) |
 ## Counting
 |  |
 | ------- |
